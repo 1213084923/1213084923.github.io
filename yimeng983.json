@@ -2,15 +2,15 @@
 
 {
 "wallpaper":"./t/",
-"spider":"http://tv.nxog.top/m/jar.php?id=","warningText":"欧歌提示:
+"spider":"http://tv.nxog.top/m/jar.php?id=","warningText":"一梦提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
 
 "lives":[{"name":"live","type":0,"url":"http://tv.nxog.top/m/live.php","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"豆瓣2","name":"📢欧歌榜单tv.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢欧歌公告❤更新:2/28❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://tv.nxog.top/m/jar.php?id=xx;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
+{"key":"豆瓣2","name":"📢一梦微信：yimeng983","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢公告❤更新:2/28❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://tv.nxog.top/m/jar.php?id=xx;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
 
@@ -41,7 +41,7 @@
 	{"key":"追剧迷","name":"🎄追剧┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/追剧迷.js"},
 	{"key":"看了么","name":"🎄看了┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/看了么.js"},
 	{"key":"美益达","name":"🎄美益┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/美益达.js"},
-	{"key":"五五五","name":"🎄五五┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/五五五.js"},
+	{"key":"五五五","name":"🎄五五┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 	{"key":"达达龟","name":"🎄达达┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/达达龟.js"},
 	{"key":"茶杯狐","name":"🎄茶杯┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/茶杯狐.js"},
 	{"key":"网飞影视","name":"🎄网飞┃影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
