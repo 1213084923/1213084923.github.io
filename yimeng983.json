@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🎟豆瓣┃主页",
+      "name": "🎟一梦1┃主页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哩┃哔哩",
+      "name": "🅱一梦2┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -53,7 +53,7 @@
         "播放副标题": "artist*\"&&\"",
         "线路数组": "相声随身听",
         "线路标题": "相声随身听",
-        "导演": "小米",
+        "导演": "一梦",
         "主演": "相声明星",
         "简介": "相声合集",
         "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
@@ -109,7 +109,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "🏭️1080P┃厂长",
+      "name": "🏭️1080P┃一梦3",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -120,7 +120,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "🎈4KK┃玩偶",
+      "name": "🎈4KK┃一梦4",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -130,7 +130,7 @@
     },
     {
       "key": "sansan",
-      "name": "⭕️1080P┃解析",
+      "name": "⭕️1080P┃一梦5",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -138,8 +138,8 @@
       "changeable": 0
     },
     {
-      "key": "酷看",
-      "name": "🦁1080P┃快看",
+      "key": "一梦6",
+      "name": "🦁1080P┃一梦6",
       "type": 3,
       "api": "csp_Kkys",
       "searchable": 1,
@@ -148,7 +148,7 @@
     },
     {
       "key": "赞赞",
-      "name": "➕1080P┃切片",
+      "name": "➕1080P┃一梦7",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -159,7 +159,7 @@
     },
     {
       "key": "蚂蚁",
-      "name": "🐜1080P┃蚂蚁",
+      "name": "🐜1080P┃一梦8",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -170,7 +170,7 @@
     },
     {
       "key": "亮亮",
-      "name": "💡1080P┃花花",
+      "name": "💡1080P┃一梦9",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYs",
@@ -181,7 +181,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃1080P┃南瓜",
+      "name": "🎃1080P┃一梦10",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -191,7 +191,7 @@
     },
     {
       "key": "csp_77",
-      "name": "🥣1080P┃QIQI",
+      "name": "🥣1080P┃一梦11",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -200,14 +200,14 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "🤣1080P┃动漫",
+      "name": "🤣1080P┃一梦12",
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84"
     },
     {
       "key": "saohuo",
-      "name": "🔥1080P┃骚火",
+      "name": "🔥1080P┃一梦13",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -230,7 +230,7 @@
     },
     {
       "key": "视觉",
-      "name": "👓1080P┃视觉",
+      "name": "👓1080P┃一梦14",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
@@ -286,7 +286,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏂1080P┃奥特",
+      "name": "🏂1080P┃一梦15",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -296,7 +296,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🧑1080P┃农民",
+      "name": "🧑1080P┃一梦16",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -306,7 +306,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "👀1080P┃低端",
+      "name": "👀1080P┃一梦17",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -315,7 +315,7 @@
     },
     {
       "key": "黑狐",
-      "name": "🦊1080P┃黑狐",
+      "name": "🦊1080P┃一梦18",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -358,7 +358,7 @@
     },
     {
       "key": "双黄",
-      "name": "🥚1080P┃蛋蛋",
+      "name": "🥚1080P┃一梦19",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -375,7 +375,7 @@
     },
     {
       "key": "即可",
-      "name": "👋1080P┃即刻",
+      "name": "👋1080P┃一梦20",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -388,7 +388,7 @@
     },
     {
       "key": "茶杯",
-      "name": "🍵1080P┃茶杯",
+      "name": "🍵1080P┃一梦21",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -403,7 +403,7 @@
     },
     {
       "key": "热播库",
-      "name": "🔥1080P┃热播",
+      "name": "🔥1080P┃一梦22",
       "type": 3,
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -434,7 +434,7 @@
     },
     {
       "key": "alist",
-      "name": "🍰ALIST┃托盘",
+      "name": "🍰ALIST┃一梦23",
       "type": 3,
       "playerType": "1",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -454,7 +454,7 @@
     },
     {
       "key": "YiSo",
-      "name": "☁️4KK┃易搜",
+      "name": "☁️4KK┃一梦24",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -465,7 +465,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊4KK┃盘搜",
+      "name": "🦊4KK┃一梦25",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -475,7 +475,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾4KK┃七夜",
+      "name": "😾4KK┃一梦26",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -485,7 +485,7 @@
     },
     {
       "key": "UpYun",
-      "name": "☁️4KK┃UP搜",
+      "name": "☁️4KK┃一梦27",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -496,7 +496,7 @@
     },
     {
       "key": "push_agent",
-      "name": "公众号：神秘的哥哥们",
+      "name": "一梦28",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -522,7 +522,7 @@
       "url": "Sequence"
     },
     {
-      "name": "稻香🌾",
+      "name": "一梦29🌾",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -554,7 +554,7 @@
       }
     },
     {
-      "name": "爱酷🌾",
+      "name": "一梦30🌾",
       "type": 1,
       "url": "http://42.157.129.139:7788/json/aiku.php?url=",
       "ext": {
@@ -587,7 +587,7 @@
       }
     },
     {
-      "name": "蚂蚁🌾",
+      "name": "一梦31🌾",
       "type": 1,
       "url": "http://121.62.61.51:6888/api/?key=5CWvFJheqm0EGrXAou&url=",
       "ext": {
@@ -600,7 +600,7 @@
       }
     },
     {
-      "name": "米饭🌾",
+      "name": "一梦32🌾",
       "type": 0,
       "url": "https://jx.yangtu.top/?url=",
       "ext": {
