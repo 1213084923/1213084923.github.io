@@ -28,7 +28,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "线路1",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -36,7 +36,7 @@
     },
     {
       "key": "热播",
-      "name": "热播┃App",
+      "name": "线路2",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -44,7 +44,7 @@
     },
     {
       "key": "追剧",
-      "name": "追剧┃App",
+      "name": "线路3",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -52,14 +52,14 @@
     },
     {
       "key": "发电",
-      "name": "发电┃App",
+      "name": "线路4",
       "type": 3,
       "api": "csp_Fdys",
       "playerType": 2
     },
     {
       "key": "柠檬",
-      "name": "柠檬┃App",
+      "name": "线路5",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -67,7 +67,7 @@
     },
     {
       "key": "tvbsk",
-      "name": "TVB┃App",
+      "name": "线路6",
       "type": 3,
       "api": "csp_Skapp",
       "playerType": 2,
@@ -75,7 +75,7 @@
     },
     {
       "key": "星星",
-      "name": "星星┃App",
+      "name": "线路7",
       "type": 3,
       "api": "csp_qiao",
       "playerType": 2,
@@ -83,7 +83,7 @@
     },
     {
       "key": "K影",
-      "name": "K影院┃App",
+      "name": "线路8",
       "type": 1,
       "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
       "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
@@ -92,19 +92,19 @@
     },
     {
       "key": "JianPian",
-      "name": "荐片[边下边播]",
+      "name": "线路9",
       "type": 3,
       "api": "csp_JianPian"
     },
     {
       "key": "Dygang",
-      "name": "电影港[边下边播]",
+      "name": "线路10",
       "type": 3,
       "api": "csp_Dygang"
     },
     {
       "key": "蚂蚁",
-      "name": "蚂蚁┃App",
+      "name": "线路11",
       "type": 3,
       "api": "csp_Mayiys",
       "searchable": 1,
@@ -115,7 +115,7 @@
     },
     {
       "key": "看看",
-      "name": "看看┃App",
+      "name": "线路12",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "Lib",
-      "name": "Lib┃直连",
+      "name": "线路13",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
@@ -134,7 +134,7 @@
     },
     {
       "key": "时常",
-      "name": "时常┃APP",
+      "name": "线路14",
       "type": 3,
       "api": "csp_qiao3",
       "searchable": 1,
@@ -145,7 +145,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "哔滴┃直连",
+      "name": "线路15",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -155,7 +155,7 @@
     },
     {
       "key": "NoSearch_csp_DiDuan",
-      "name": "低端┃直连",
+      "name": "线路16",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -165,7 +165,7 @@
     },
     {
       "key": "sliu_spider",
-      "name": "石榴┃直连",
+      "name": "线路17",
       "api": "csp_ShiLiuDY",
       "type": 3,
       "filterable": 1,
@@ -176,7 +176,7 @@
     },
     {
       "key": "快看",
-      "name": "快看┃直连",
+      "name": "线路18",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -186,7 +186,7 @@
     },
     {
       "key": "360_spider",
-      "name": "360┃解析",
+      "name": "线路19",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "ZXZJ",
-      "name": "在线┃直连",
+      "name": "线路20",
       "api": "csp_Zxzj",
       "type": 3,
       "filterable": 1,
@@ -207,7 +207,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长┃直连",
+      "name": "线路21",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -218,7 +218,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete",
+      "name": "线路22",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -228,7 +228,7 @@
     },
     {
       "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
+      "name": "线路23",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -238,7 +238,7 @@
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "线路24",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
