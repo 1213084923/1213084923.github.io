@@ -224,7 +224,7 @@
     },
     {
       "key": "爱看影院",
-      "name": "🚛爱看影院",
+      "name": "线路23",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -235,7 +235,7 @@
     },
     {
       "key": "策驰影院",
-      "name": "🚛策驰影院",
+      "name": "线路24",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -245,7 +245,7 @@
     },
     {
       "key": "csp_Voflix",
-      "name": "🚛Voflix",
+      "name": "线路25",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -255,7 +255,7 @@
     },
     {
       "key": "🚛宝仙HD",
-      "name": "🚛宝仙HD",
+      "name": "线路26",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -265,14 +265,14 @@
     },
     {
       "key": "101影院",
-      "name": "🚛101影院",
+      "name": "线路27",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/l0l.js"
     },
     {
       "key": "Vidhub视频",
-      "name": "🚛视频库",
+      "name": "线路28",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -282,7 +282,7 @@
     },
     {
       "key": "石榴影视",
-      "name": "🚛石榴影视",
+      "name": "线路29",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -292,7 +292,7 @@
     },
     {
       "key": "两个BT",
-      "name": "🚛两个BT",
+      "name": "线路30",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -302,14 +302,14 @@
     },
     {
       "key": "大师兄影视",
-      "name": "🚛大师兄影视",
+      "name": "线路31",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/dashixiongyingshi.js"
     },
     {
       "key": "七年影视",
-      "name": "🚛七年影视",
+      "name": "线路32",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "lzi",
-      "name": "🚛量子资源",
+      "name": "线路33",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "非凡资源",
-      "name": "🚛非凡资源",
+      "name": "线路34",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -338,7 +338,14 @@
       "filterable": 1,
       "ext": "./sub/ffzy.json"
     },
-    
+    {
+      "key": "拳皇争霸",
+      "name": "线路35",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/quanhuang.js"
+    }
+  ],
   "lives": [
     {
       "group": "redirect",
