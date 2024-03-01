@@ -227,16 +227,6 @@
       "filterable": 1
     },
     {
-      "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.qiaoji8.com/tvbox/bili.json"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
