@@ -13,7 +13,7 @@
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
 
 "sites":[
-{ "key": "drpy_js_豆瓣", "name": "🌺【春盈天下】💑（👉公告：app资源仅供测试学习使用）💑", "type": 3, "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js", "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js" }, 
+{ "key": "drpy_js_豆瓣", "name": "🌺【一梦影视】💑（👉公告：app资源仅供测试学习使用）💑", "type": 3, "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js", "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js" }, 
 {"key":"YGP","name":"👉春盈┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
     {
@@ -384,49 +384,10 @@
                 "体育"
             ]
         },
-        {
-            "key": "zy_天空资源",
-            "name": "🐰春盈┃接口天空",
-            "type": 1,
-            "api": "https://tiankongzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "香港剧",
-                "台湾剧",
-                "美国剧",
-                "纪录片",
-                "悬疑片",
-                "动画片",
-                "犯罪片",
-                "奇幻片",
-                "韩国剧",
-                "日本剧",
-                "海外剧",
-                "泰剧",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧梅动漫",
-                "邵氏电影"
-            ]
-        },
+
 
 {"key":"卧龙资源","name":"🐰春盈┃卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"🐰春盈┃新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"天空资源","name":"🐰春盈┃天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml_天空资源","name":"🐰春盈┃天空资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "csp_xml_爱坤","name": "🐰春盈┃爱坤","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "高清资源网","name": "🐰春盈┃高清","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]}, 
 {"key": "csp_xml_百度","name": "🐰春盈┃百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
