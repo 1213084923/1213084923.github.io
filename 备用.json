@@ -1,5 +1,5 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+  "spider": "https://1213084923.github.io/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "南瓜",
-      "name": "南瓜┃App",
+      "name": "一梦",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
