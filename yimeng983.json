@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "玩偶哥哥",
-      "name": "👽一梦影视┃4K弹幕",
+      "name": "一梦影视┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -57,16 +57,6 @@
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃一梦",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
