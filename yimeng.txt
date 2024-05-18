@@ -97,6 +97,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveev
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 一梦影视,#genre#
-想看哪个电视台,https://qqq.gtimg.cn/music/photo_new/T053XD00000380dNJ1fz0xB.jpg
-联系一梦微信,https://qqq.gtimg.cn/music/photo_new/T053XD00000380dNJ1fz0xB.jpg
-微信：yimeng983,https://qqq.gtimg.cn/music/photo_new/T053XD00000380dNJ1fz0xB.jpg
+想看哪个电视台,https://gw.alipayobjects.com/v/mrch_developerops/afts/video/A*DSqgQ6D4uTwAAAAAAAAAAAAADvx4AQ/720P
+联系一梦微信,https://gw.alipayobjects.com/v/mrch_developerops/afts/video/A*DSqgQ6D4uTwAAAAAAAAAAAAADvx4AQ/720P
+微信：yimeng983,https://gw.alipayobjects.com/v/mrch_developerops/afts/video/A*DSqgQ6D4uTwAAAAAAAAAAAAADvx4AQ/720P
