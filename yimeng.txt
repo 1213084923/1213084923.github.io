@@ -54,6 +54,7 @@ CCTV-16 奥林匹克,http://tvbox.netsite.cc/proxy/434481154/434481154.m3u8
 少儿专区,#genre#
 卡酷少儿,http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/kkse8m/8000000/mnf.m3u8
 金鹰卡通,http://tvbox.netsite.cc/proxy/1947104640/1947104640.m3u8
+CCTV-14 少儿,http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
 卫视V4,#genre#
