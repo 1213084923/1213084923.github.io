@@ -121,7 +121,7 @@
     {
       "key": "可可",
       "name": "可可",
-      "type": 3,
+      "type": 1,
       "api": "https://61.147.93.155:15001/vod_pc_static_kkdy/js/kkys.min.js",
       "searchable": 1,
       "quickSearch": 1,
