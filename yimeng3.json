@@ -119,13 +119,13 @@
       "filterable": 1
     },
     {
-      "key": "可可",
-      "name": "可可",
-      "type": 1,
-      "api": "https://61.147.93.155:15001/vod_pc_static_kkdy/js/kkys.min.js",
+      "key": "cjzy_360资源",
+      "name": "360影视",
+      "type": 0,
+      "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "wallpaper": "https://xhdwc.tk/api/img.php",
