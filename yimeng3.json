@@ -101,14 +101,13 @@
       "filterable": 1
     },
     {
-      "key": "js_changmeng",
-      "name": "畅梦影视",
+      "key": "csp_非凡资源",
+      "name": "非凡资源",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/畅梦影视[优].js"
+      "filterable": 1
     }
   ],
   "wallpaper": "https://xhdwc.tk/api/img.php",
