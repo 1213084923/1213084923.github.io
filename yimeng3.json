@@ -137,10 +137,37 @@
       "filterable": 0
     },
     {
-      "key": "测试",
-      "name": "测试",
+      "key": "驰策1",
+      "name": "驰策1",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "api": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "驰策2",
+      "name": "驰策2",
+      "type": 2,
+      "api": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "驰策3",
+      "name": "驰策3",
+      "type": 3,
+      "api": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "驰策4",
+      "name": "驰策4",
+      "type": 4,
+      "api": "https://api.97bike.com/qrcode/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
