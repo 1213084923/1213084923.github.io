@@ -121,7 +121,7 @@
     {
       "key": "cjzy_360资源",
       "name": "360影视",
-      "type": 0,
+      "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
