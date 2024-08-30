@@ -137,19 +137,19 @@
       "filterable": 0
     },
     {
-      "key": "驰策1",
-      "name": "驰策1",
+      "key": "喆",
+      "name": "喆",
       "type": 1,
-      "api": "https://api.97bike.com/qrcode/?url=",
+      "api": "https://v.jijisi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "驰策2",
-      "name": "驰策2",
-      "type": 2,
-      "api": "https://api.97bike.com/qrcode/?url=",
+      "key": "喆喆",
+      "name": "喆喆",
+      "type": 0,
+      "api": "https://v.jijisi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
