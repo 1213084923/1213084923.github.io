@@ -99,6 +99,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "js_changmeng",
+      "name": "畅梦影视",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./drpy_js/畅梦影视[优].js"
     }
   ],
   "wallpaper": "https://xhdwc.tk/api/img.php",
