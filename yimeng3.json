@@ -122,7 +122,7 @@
       "key": "cjzy_360资源",
       "name": "360影视",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -155,22 +155,121 @@
       "filterable": 0
     },
     {
-      "key": "驰策3",
-      "name": "驰策3",
-      "type": 3,
-      "api": "https://api.97bike.com/qrcode/?url=",
+      "key": "量子",
+      "name": "量子",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "驰策4",
-      "name": "驰策4",
-      "type": 4,
-      "api": "https://api.97bike.com/qrcode/?url=",
+      "key": "卧龙资源",
+      "name": "卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "驰策",
+      "name": "驰策",
+      "type": 0,
+      "playUrl": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "驰策1",
+      "name": "驰策1",
+      "type": 0,
+      "playUrl": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "驰策2",
+      "name": "驰策2",
+      "type": 2,
+      "playUrl": "https://api.97bike.com/qrcode/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "樱花资源",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "闪电资源",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "光速资源",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "八戒资源",
+      "name": "八戒资源",
+      "type": 1,
+      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "123",
+      "type": 1,
+      "url": "http://api.vip123kan.vip/?url="
+    },
+    {
+      "name": "00",
+      "type": 0,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "11",
+      "type": 1,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "22",
+      "type": 2,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "33",
+      "type": 3,
+      "url": "https://svip.ffzyplay.com/?url="
     }
   ],
   "wallpaper": "https://xhdwc.tk/api/img.php",
