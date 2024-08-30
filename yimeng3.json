@@ -173,33 +173,6 @@
       "filterable": 0
     },
     {
-      "key": "驰策",
-      "name": "驰策",
-      "type": 0,
-      "playUrl": "https://api.97bike.com/qrcode/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "驰策1",
-      "name": "驰策1",
-      "type": 0,
-      "playUrl": "https://api.97bike.com/qrcode/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "驰策2",
-      "name": "驰策2",
-      "type": 2,
-      "playUrl": "https://api.97bike.com/qrcode/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "樱花资源",
       "name": "樱花资源",
       "type": 1,
