@@ -110,15 +110,6 @@
       "filterable": 1
     },
     {
-      "key": "非凡综合资源",
-      "name": "非凡综合资源",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "cjzy_360资源",
       "name": "360影视",
       "type": 1,
@@ -141,6 +132,16 @@
       "name": "卧龙资源",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "1080P",
+      "name": "1080P",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playUrl": "https://vip.zykbf.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
