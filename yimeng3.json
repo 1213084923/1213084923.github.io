@@ -137,20 +137,29 @@
       "filterable": 0
     },
     {
-      "key": "1080",
-      "name": "1080",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/ldg_api_all.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "1080P",
       "name": "1080P",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "影赛",
+      "name": "影赛",
+      "type": 3,
+      "api": "http://rihou.cc:567/JRKAN2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "阿里",
+      "name": "阿里",
+      "type": 1,
+      "api": "https://cms.alyzy.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
