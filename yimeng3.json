@@ -218,6 +218,156 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "索尼",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🐭贱贱",
+      "name": "🐭贱贱",
+      "type": 1,
+      "api": "https://盒子迷.top/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "测试┃影视",
+      "name": "测试┃影视",
+      "type": 1,
+      "api": "http://43.251.100.248:60/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/101.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "茶杯狐",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/102.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "畅梦影视",
+      "name": "畅梦影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/103.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "达达龟",
+      "name": "达达龟",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/104.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "腾腾┃影视",
+      "name": "腾腾┃影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/tt.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "优优┃影视",
+      "name": "优优┃影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/yy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "芒芒┃影视",
+      "name": "芒芒┃影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/mm.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "爱爱┃影视",
+      "name": "爱爱┃影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js\",\"ext\":\"http://a.nxog.top/m/js/aa.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奇优影院",
+      "name": "奇优影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "秦始皇|4K",
+      "name": "秦始皇|4K",
+      "type": 1,
+      "api": "http://23.224.49.51:60/api.php?key=554433811&id=id99",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "小狗影院",
+      "name": "小狗影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "69美剧",
+      "name": "69美剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "type": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
