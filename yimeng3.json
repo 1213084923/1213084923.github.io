@@ -7,7 +7,7 @@
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
@@ -17,7 +17,7 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "IK",
@@ -26,7 +26,7 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "categories": [
         "动作片",
         "喜剧片",
@@ -88,7 +88,7 @@
       "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
@@ -116,7 +116,7 @@
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "360资源",
@@ -160,6 +160,15 @@
       "name": "南瓜影视",
       "type": 3,
       "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱坤┃资源",
+      "name": "爱坤┃资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
