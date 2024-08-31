@@ -1,8 +1,17 @@
 {
   "sites": [
     {
-      "key": "贱贱",
-      "name": "一梦影视免费分享",
+      "key": "红牛┃资源",
+      "name": "一梦影视 免费分享",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "searchable": 1,
