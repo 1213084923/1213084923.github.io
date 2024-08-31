@@ -168,7 +168,7 @@
       "key": "爱坤┃资源",
       "name": "爱坤┃资源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
