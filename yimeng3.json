@@ -147,19 +147,74 @@
       "filterable": 0
     },
     {
-      "key": "影赛",
-      "name": "影赛",
-      "type": 3,
-      "api": "http://rihou.cc:567/JRKAN2.js",
+      "key": "木耳┃影视",
+      "name": "木耳┃影视",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "阿里",
-      "name": "阿里",
+      "key": "废多┃影视",
+      "name": "废多┃影视",
       "type": 1,
-      "api": "https://cms.alyzy.xyz/api.php/provide/vod/",
+      "api": "http://www.feidaozy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "南瓜┃影视",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "365┃影视",
+      "name": "365┃影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "厂长┃影视",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "企饿┃影视",
+      "name": "企饿┃影视",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🥝奇遇┃影视",
+      "name": "🥝奇遇┃影视",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🥭忙果┃影视",
+      "name": "🥭忙果┃影视",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
