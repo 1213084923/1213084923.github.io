@@ -149,8 +149,8 @@
     {
       "key": "木耳┃影视",
       "name": "木耳┃影视",
-      "type": 0,
-      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
