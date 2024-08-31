@@ -154,6 +154,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
