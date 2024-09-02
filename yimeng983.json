@@ -172,6 +172,48 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "光速｜采集",
+      "name": "光速｜采集",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "极速｜采集",
+      "name": "极速｜采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "快车｜采集",
+      "name": "快车｜采集",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "量子｜采集",
+      "name": "量子｜采集",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "type": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
