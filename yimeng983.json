@@ -210,7 +210,10 @@
       "filterable": 0
     },
     {
-      "type": 0,
+      "key": "🏔️万色山川",
+      "name": "🏔️万色山川",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
