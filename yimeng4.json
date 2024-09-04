@@ -246,37 +246,10 @@
       "filterable": 0
     },
     {
-      "key": "忆梦",
-      "name": "忆梦",
-      "type": 1,
-      "api": "https://gnpt.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "忆梦2",
-      "name": "忆梦2",
-      "type": 0,
-      "api": "https://gnpt.net/api.php/provide/vod/from/mgtv/?at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "百度采集",
       "name": "百度采集",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "348电影网",
-      "name": "348电影网",
-      "type": 3,
-      "api": "https://gitbox520.github.io/gao/js/348电影网.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -291,18 +264,9 @@
       "filterable": 0
     },
     {
-      "key": "DJ音乐",
-      "name": "DJ音乐",
-      "type": 3,
-      "api": "https://gitbox520.github.io/gao/js/DJ音乐.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "荐片js",
       "name": "荐片js",
-      "type": 3,
+      "type": 2,
       "api": "https://gitbox520.github.io/gao/js/荐片.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -311,7 +275,7 @@
     {
       "key": "落攻阁影视",
       "name": "落攻阁影视",
-      "type": 3,
+      "type": 2,
       "api": "https://gitbox520.github.io/gao/js/落攻阁影视.js",
       "searchable": 1,
       "quickSearch": 1,
