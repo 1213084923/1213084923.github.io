@@ -257,7 +257,7 @@
     {
       "key": "360",
       "name": "360",
-      "type": 3,
+      "type": 2,
       "api": "https://gitbox520.github.io/gao/js/360%E5%BD%B1%E8%A7%86.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -266,7 +266,7 @@
     {
       "key": "荐片js",
       "name": "荐片js",
-      "type": 2,
+      "type": 4,
       "api": "https://gitbox520.github.io/gao/js/荐片.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -275,7 +275,7 @@
     {
       "key": "落攻阁影视",
       "name": "落攻阁影视",
-      "type": 2,
+      "type": 1,
       "api": "https://gitbox520.github.io/gao/js/落攻阁影视.js",
       "searchable": 1,
       "quickSearch": 1,
