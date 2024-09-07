@@ -289,51 +289,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "有密码",
-      "name": "有密码",
-      "type": 1,
-      "api": "https://www.139ys.com/vodsearch/-------------.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "玉米面",
-      "name": "玉米面",
-      "type": 2,
-      "api": "https://www.139ys.com/vodsearch/-------------.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "嗯嗯",
-      "name": "嗯嗯",
-      "type": 3,
-      "api": "https://www.139ys.com/vodsearch/-------------.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "呃呃",
-      "name": "呃呃",
-      "type": 4,
-      "api": "https://www.139ys.com/vodsearch/-------------.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "问问",
-      "name": "问问",
-      "type": 0,
-      "playUrl": "https://www.139ys.com/vodsearch/-------------.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ],
   "lives": [
