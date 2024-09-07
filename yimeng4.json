@@ -284,7 +284,7 @@
     {
       "key": "一梦",
       "name": "一梦",
-      "type": 0,
+      "type": 1,
       "api": "https://www.139ys.com/vodsearch/-------------.html",
       "searchable": 1,
       "quickSearch": 1,
