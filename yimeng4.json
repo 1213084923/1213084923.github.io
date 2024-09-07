@@ -282,10 +282,28 @@
       "filterable": 0
     },
     {
-      "key": "一梦3",
-      "name": "一梦3",
-      "type": 3,
+      "key": "一梦",
+      "name": "一梦",
+      "type": 1,
       "api": "https://www.139ys.com/vodsearch/-------------.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "一",
+      "name": "一",
+      "type": 2,
+      "api": "https://www.139ys.com/vodsearch/-------------.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "二",
+      "name": "二",
+      "type": 0,
+      "playUrl": "https://www.139ys.com/vodsearch/-------------.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
