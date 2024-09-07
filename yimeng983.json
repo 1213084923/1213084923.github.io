@@ -284,23 +284,12 @@
   ],
   "lives": [
     {
-      "group": "卫视",
-      "channels": [
-        {
-          "name": "浙江卫视",
-          "urls": [
-            "https://h5access.yangshipin.cn/web/open/token?yspappid=519748109&guid=m0rmmz8w_5gb4oji7w4w&vappid=59306155&vsecret=b42702bf7309a179d102f3d51b1add2fda0bc7ada64cb801&raw=1&ts=1725682279 "
-          ]
-        }
-      ]
-    },
-    {
       "group": "央视",
       "channels": [
         {
           "name": "CCTV1",
           "urls": [
-            "https://h5access.yangshipin.cn/web/open/token?yspappid=519748109&guid=m0rnfe3b_-1vvu0t6y5t&vappid=59306155&vsecret=b42702bf7309a179d102f3d51b1add2fda0bc7ada64cb801&raw=1&ts=1725683565 "
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
           ]
         }
       ]
