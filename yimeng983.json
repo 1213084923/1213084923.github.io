@@ -284,6 +284,17 @@
   ],
   "lives": [
     {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "https://h5access.yangshipin.cn/web/open/token?yspappid=519748109&guid=m0rmmz8w_5gb4oji7w4w&vappid=59306155&vsecret=b42702bf7309a179d102f3d51b1add2fda0bc7ada64cb801&raw=1&ts=1725682279 "
+          ]
+        }
+      ]
+    },
+    {
       "group": "🇨🇳央视频道",
       "channels": [
         {
@@ -410,17 +421,6 @@
           "name": "CETV-4",
           "urls": [
             "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "卫视",
-      "channels": [
-        {
-          "name": "浙江卫视",
-          "urls": [
-            "https://h5access.yangshipin.cn/web/open/token?yspappid=519748109&guid=m0rmmz8w_5gb4oji7w4w&vappid=59306155&vsecret=b42702bf7309a179d102f3d51b1add2fda0bc7ada64cb801&raw=1&ts=1725682279 "
           ]
         }
       ]
