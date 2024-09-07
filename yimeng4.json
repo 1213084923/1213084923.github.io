@@ -1,59 +1,133 @@
 {
   "sites": [
     {
-      "key": "1",
-      "name": "1",
-      "type": 4,
-      "api": "https://www.139ys.com/vodsearch/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "2",
-      "name": "2",
-      "type": 0,
-      "playUrl": "https://www.139ys.com/vodsearch/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "3",
-      "name": "3",
+      "key": "荐片",
+      "name": "一梦影视 免费分享 不要相信里面广告",
       "type": 3,
-      "api": "https://www.139ys.com/vodsearch/",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
-      "key": "4",
-      "name": "4",
-      "type": 2,
-      "api": "https://www.139ys.com/vodsearch/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "5",
-      "name": "5",
-      "type": 1,
-      "api": "https://www.139ys.com/vodsearch/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "6",
-      "name": "6",
+      "key": "是",
+      "name": "是",
       "type": 0,
-      "api": "https://www.139ys.com/vodsearch/",
+      "api": "https://www.139ys.com/vodsearch/-------------.html?wd=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "是是",
+      "name": "是是",
+      "type": 1,
+      "api": "https://www.139ys.com/vodsearch/-------------.html?wd=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "是是是",
+      "name": "是是是",
+      "type": 2,
+      "api": "https://www.139ys.com/vodsearch/-------------.html?wd=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "是是是是",
+      "name": "是是是是",
+      "type": 3,
+      "api": "https://www.139ys.com/vodsearch/-------------.html?wd=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "是是是是是",
+      "name": "是是是是是",
+      "type": 4,
+      "api": "https://www.139ys.com/vodsearch/-------------.html?wd=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "是是是是是",
+      "name": "是是是是是",
+      "type": 0,
+      "playUrl": "https://www.139ys.com/vodsearch/-------------.html?wd=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     }
   ],
+  "lives": [
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "浙江新闻",
+          "urls": [
+            "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江综合",
+          "urls": [
+            "http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://116.128.243.121:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8 "
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "123",
+      "type": 1,
+      "url": "http://api.vip123kan.vip/?url="
+    },
+    {
+      "name": "00",
+      "type": 0,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "11",
+      "type": 1,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "22",
+      "type": 2,
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "name": "33",
+      "type": 3,
+      "url": "https://svip.ffzyplay.com/?url="
+    }
+  ],
+  "wallpaper": "https://xhdwc.tk/api/img.php",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
 }
