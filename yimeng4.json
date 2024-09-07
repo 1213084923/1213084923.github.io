@@ -282,9 +282,9 @@
       "filterable": 0
     },
     {
-      "key": "一梦",
-      "name": "一梦",
-      "type": 1,
+      "key": "一梦3",
+      "name": "一梦3",
+      "type": 3,
       "api": "https://www.139ys.com/vodsearch/-------------.html",
       "searchable": 1,
       "quickSearch": 1,
