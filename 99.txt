@@ -1,12 +1,12 @@
 //我的收藏
 电视直播,#genre#
-公共资源整合,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-一梦免费分享,https://img.piexl.cn/view.php/8b3eea23e7bf605e907b2850b7a57815.mp4
-切勿付费购买,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-获取更新,https://img.piexl.cn/view.php/8b3eea23e7bf605e907b2850b7a57815.mp4
-联系一梦微信↓,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-yimeng982,https://img.piexl.cn/view.php/8b3eea23e7bf605e907b2850b7a57815.mp4
-永久免费,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+公共资源整合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+一梦免费分享,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+切勿付费购买,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+获取更新,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+联系一梦微信↓,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+yimeng982,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+永久免费,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 央视频道,#genre#
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
