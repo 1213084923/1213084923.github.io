@@ -1,8 +1,17 @@
 {
   "sites": [
     {
-      "key": "荐片",
+      "key": "苹果",
       "name": "一梦影视 免费分享 不要相信里面广告",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "searchable": 1,
@@ -15,15 +24,6 @@
       "name": "红牛┃资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
