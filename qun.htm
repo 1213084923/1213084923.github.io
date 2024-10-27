@@ -1,0 +1,41 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: url('https://img.taotu.cn/ssd/ssd4/1/2024-09-09/1_d08b5bce12b266e6c33b42433ace121a.webp') no-repeat center center fixed;
+            background-size: cover;
+        }
+        #wechat-img {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            z-index: 9999;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        if (!/MicroMessenger/.test(navigator.userAgent)) {
+            location.href = "https://qm.qq.com/q/PgsXeMxnSs";
+        } else {
+            const img = new Image();
+            img.src = "https://qqq.gtimg.cn/music/photo_new/T053XD00002pbpl63OqULd.png";
+            img.id = 'wechat-img';
+            document.body.appendChild(img);
+        }
+    </script>
+</body>
+</html>
