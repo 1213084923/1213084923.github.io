@@ -1,0 +1,111 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>网址访问受到限制</title>
+	<meta name="viewport"
+	content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<style>
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #f2f2f2;  /* 背景颜色为浅灰色 */
+	padding: 10px;  /* 页面内边距为50像素 */
+}
+
+.container {
+	max-width: 400px;  /* 容器最大宽度为400像素 */
+	margin: 0 auto;  /* 居中对齐容器 */
+	background-color: #ffffff;  /* 容器背景色为白色 */
+	border-radius: 10px;  /* 容器边框圆角弧度为10像素 */
+	padding: 30px;  /* 容器内边距为30像素 */
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);  /* 添加轻微阴影效果 */
+}
+
+h1 {
+	color: #333333;  /* 标题颜色为深灰色 */
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;  /* 底边距为10像素 */
+	color: #666666;  /* 标签颜色为浅灰色 */
+	font-weight: bold;  /* 标签字体加粗 */
+}
+
+input[type="password"] {
+	width: 100%;  /* 密码输入框宽度占满容器 */
+	padding: 10px;  /* 输入框内边距为10像素 */
+	border: 1px solid #cccccc;  /* 输入框边框为浅灰色 */
+	border-radius: 5px;  /* 输入框边框圆角弧度为5像素 */
+}
+
+button {
+	margin-top: 20px;  /* 顶边距为20像素 */
+	padding: 15px 60px;  /* 按钮内边距为10像素顶部和底部，20像素左右 */
+	background-color: #4CAF50;  /* 按钮背景色为绿色 */
+	color: #ffffff;  /* 按钮文本颜色为白色 */
+	border: none;  /* 去除按钮边框 */
+	border-radius: 5px;  /* 按钮边框圆角弧度为5像素 */
+	cursor: pointer;  /* 鼠标悬停时显示手型光标 */
+}
+
+img {
+	margin-top: 20px;  /* 顶边距为30像素 */
+	max-width: 80%;  /* 图片最大宽度为容器宽度 */
+	border-radius: 5px;  /* 图片边框圆角弧度为5像素 */
+}
+p {
+            font-size: 15px; /* 设置字体大小为20像素 */
+            font-family: Arial, sans-serif; /* 设置字体样式为Arial或sans-serif */
+        }
+	</style>
+	<!-- 使用 Layer 库 -->
+	<link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/layer/3.1.1/skin/default/layer.css">
+	<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/layer/3.1.1/layer.js"></script>
+	<script src="http://note.youdao.com/yws/api/personal/file//WEB55148cc89b8094b77aa054b301ec1bd2?method=download&inline=true&shareKey=f83992db038ed018054b294c07f28008"></script>
+	<script type="text/javascript">
+		function checkPassword() {
+			var password = document.getElementById("password").value;
+			if (password === "随时下单") { //你要设置的密码
+				window.location.href = "https://wx.y.gtimg.cn/music/photo_new/T053XD00002FAWJw1R51fI.png"; // 将"要跳转的链接"替换为您要跳转的页面
+			} else {
+				alert("密码收入错误，请扫描下面二维码，获取密码"); // 密码不正确时弹出提示框
+			}
+		}
+		$(document).ready(function() {
+			$("img").click(function(){
+				var src = $(this).attr("src");
+				layer.open({
+					type: 1,
+					title: false,
+					closeBtn: 1,
+					area: ['90%', '90%'], // 将宽度和高度都设置为90%
+					content: "<img src='" + src + "' >"
+				});
+			});
+		});
+
+	</script>
+</head>
+<body>
+	<div class="container">
+		<h1>输入密码继续观看</h1>
+		<label for="password">请输入密码:</label>
+		<input type="text" id="password" name="password" placeholder="请输入您获取的密码" pattern="[^\u4e00-\u9fa5]{0,16}" title="密码只能包含汉字、数字或英文字符，长度不超过16个字符" required>
+		<br><br>
+		<button onclick="checkPassword()">确认</button>
+		<br>
+      <h2>↓↓↓密码获取方式↓↓↓</h2>
+      <h2>第一步：淘宝app扫码进入</h2>
+		<img src="https://wx.y.gtimg.cn/music/photo_new/T053XD000002V2ki0zGzGF.png" alt="Your Image"><!--小程序图片-->
+	      <h2>第二步，黑色框里的四个汉字就是密码</h2>
+		<img src="https://wx.y.gtimg.cn/music/photo_new/T053XD00000UtDdM1JaOY5.png" alt="Your Image"><!--小程序图片-->
+        
+	    <p>11.3劇情-抖娘利世 啶淛冼譟🥵</p>
+    </div>
+</body>
+</html>
