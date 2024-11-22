@@ -17,6 +17,23 @@
         "综艺"
       ]
     },
+        {
+      "key": "色色色色",
+      "name": "色色色色",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
     {
       "key": "色色",
       "name": "色色",
