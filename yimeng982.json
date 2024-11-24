@@ -74,7 +74,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/百忙无果_官_.js"
+      "ext": "./json2/百忙无果_官_.js"
     },
 
 
@@ -2235,7 +2235,7 @@
 
 
 
-{"name":"📦天招4k会员","type": 1,"url":"http://122.228.85.203:7979/api/?key=1e80ebbfedd4c37ed312c52092edd963&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
+{"name":"📦天招4k会员","type": 1,"url":"http://122.228.85.203:7979/api/?key=93e6983a7aeb433532dd98b5c86eea72&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
 
 
 
