@@ -5,10 +5,6 @@
            "name": "一梦影视"
         },
         {
-            "url": "https://jihulab.com/ss3234741/sj/-/raw/main/2k.json",
-            "name": "📦天招线路"
-        },	
-        {
             "url": "https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/CF_V5.json",
             "name": "❄️江雪线路"
         },    
@@ -51,7 +47,11 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "💦巧技线路"
-        },				   		      			
+        },			
+        {
+            "url": "https://jihulab.com/ss3234741/sj/-/raw/main/2k.json",
+            "name": "📦天招线路"
+        },	
         {
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "业余线路"
