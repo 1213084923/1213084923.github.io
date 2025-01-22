@@ -1,5 +1,6 @@
 直播源,#genre#
-CCTV-1综合,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_ud.m3u8
+CCTV-1综合,https://al-pull2.hkatv.vip/liev/hkstv3.m3u8?auth_key=1738132879-0-0-fda3d83aa6b8cb8e3b4d07f4ca11124c
+
 CCTV-2财经,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_qd.m3u8
 CCTV-3财经,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_wd.m3u8
 CCTV-4财经,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ed.m3u8
