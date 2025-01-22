@@ -1,10 +1,2 @@
 直播源,#genre#
-CCTV-1综合,http://49.76.63.153:4022/rtp/239.49.8.107:8000
-CCTV-1综合,http://49.76.63.153:4022/rtp/239.49.8.129:6000
-
-CCTV-1综合,http://49.76.63.153:4022/rtp/239.49.8.130:6000
-
-CCTV-1综合,http://49.76.63.153:4022/rtp/239.49.9.31:6000
-
-CCTV-1综合,http://49.76.63.153:4022/rtp/239.49.8.131:6000
-
+CCTV-1综合,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
