@@ -19,15 +19,6 @@ CCTV-16-HD,http://8.146.211.219:2001/live_tv?pid=600098637
 CCTV-17,http://8.146.211.219:2001/live_tv?pid=600001810
 CCTV-4K,http://8.146.211.219:2001/live_tv?pid=600002264
 CCTV-8K,http://8.146.211.219:2001/live_tv?pid=600156816
-CGTN,http://8.146.211.219:2001/live_tv?pid=600014550
-CGTN-法语频道,http://8.146.211.219:2001/live_tv?pid=600084704
-CGTN-俄语频道,http://8.146.211.219:2001/live_tv?pid=600084758
-CGTN-阿拉伯语频道,http://8.146.211.219:2001/live_tv?pid=600084782
-CGTN-西班牙语频道,http://8.146.211.219:2001/live_tv?pid=600084744
-CGTN-外语纪录频道,http://8.146.211.219:2001/live_tv?pid=600084781
-CCTV-第一剧场频道,http://8.146.211.219:2001/live_tv?pid=600099655
-CCTV-风云剧场频道,http://8.146.211.219:2001/live_tv?pid=600099658
-CCTV-怀旧剧场频道,http://8.146.211.219:2001/live_tv?pid=600099620
 北京卫视,http://8.146.211.219:2001/live_tv?pid=600002309
 东方卫视,http://8.146.211.219:2001/live_tv?pid=600002483
 江苏卫视,http://8.146.211.219:2001/live_tv?pid=600002521
@@ -66,7 +57,15 @@ CETV-1,http://8.146.211.219:2001/live_tv?pid=600171827
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-
+CGTN,http://8.146.211.219:2001/live_tv?pid=600014550
+CGTN-法语频道,http://8.146.211.219:2001/live_tv?pid=600084704
+CGTN-俄语频道,http://8.146.211.219:2001/live_tv?pid=600084758
+CGTN-阿拉伯语频道,http://8.146.211.219:2001/live_tv?pid=600084782
+CGTN-西班牙语频道,http://8.146.211.219:2001/live_tv?pid=600084744
+CGTN-外语纪录频道,http://8.146.211.219:2001/live_tv?pid=600084781
+CCTV-第一剧场频道,http://8.146.211.219:2001/live_tv?pid=600099655
+CCTV-风云剧场频道,http://8.146.211.219:2001/live_tv?pid=600099658
+CCTV-怀旧剧场频道,http://8.146.211.219:2001/live_tv?pid=600099620
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
