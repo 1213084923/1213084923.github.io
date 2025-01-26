@@ -1124,4 +1124,3 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 龙游生活娱乐_y,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed$订阅源-1920x1080
 龙游综合_f,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游综合_q,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-연합뉴스tv_u,https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
