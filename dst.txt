@@ -53,6 +53,7 @@ CCTV-17农业农村,https://tvpull.careryun.com/tv/cctv17.m3u8
 吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
 海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
 西藏卫视,http://tvpull.careryun.com/tv/xzws.m3u8
+辽宁卫视,http://101.204.99.111:9999/itv/5000000004000011671.m3u8?cdn=bestzb 
 一梦采集央视源,#genre#
 CCTV-1综合,http://223.167.75.36:10030/gaoma/cctv1.m3u8
 CCTV-2财经,http://223.167.75.36:10030/gaoma/cctv2.m3u8
@@ -73,7 +74,6 @@ CCTV1-15音乐,http://223.167.75.36:10030/gaoma/cctv15.m3u8
 CCTV-16奥林匹克,http://223.167.75.36:10030/gaoma/cctv16.m3u8 
 CCTV-17农业农村,http://223.167.75.36:10030/gaoma/cctv17.m3u8 
 测试源,#genre#
-CCTV-1,https://livealiop-finance.cctv.cn/hls/CCTV18bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV-1,
 CCTV-2财经,https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?wsSecret=ec092a52c9aad9a13ab467c16759f07f&wsTime=1737988397
-CCTV-3,https://livealiop-finance.cctv.cn/hls/CCTV38bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?wsSecret=ec092a52c9aad9a13ab467c16759f07f&wsTime=1737988397
-
+CCTV-3,
