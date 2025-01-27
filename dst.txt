@@ -74,7 +74,7 @@ CCTV1-15音乐,http://223.167.75.36:10030/gaoma/cctv15.m3u8
 CCTV-16奥林匹克,http://223.167.75.36:10030/gaoma/cctv16.m3u8 
 CCTV-17农业农村,http://223.167.75.36:10030/gaoma/cctv17.m3u8 
 测试源,#genre#
-CCTV-1,https://h5access.yangshipin.cn/web/tv_program?targetId=1&vappid=59306155&vsecret=b42702bf7309a179d102f3d51b1add2fda0bc7ada64cb801&raw=1&type=by_day&pid=600001859
+CCTV-1,https://ldncctvwbcdhwy.cntv.myhwcdn.cn/ldncctvwbcd/cdrmldcctv1_1/cdrmldcctv1_1800000.m3u8?pkg_media=video&b=200-2100&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 CCTV-2财经,https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?wsSecret=ec092a52c9aad9a13ab467c16759f07f&wsTime=1737988397
-CCTV-3,
+CCTV-3,https://ldncctvwbcdhwy.cntv.myhwcdn.cn/ldncctvwbcd/cdrmldcctv1_1/cdrmldcctv1_1800000.m3u8
 CCTV-4中文国际,http://tvpull.careryun.com/tv/cctv4.m3u8
