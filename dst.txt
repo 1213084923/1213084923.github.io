@@ -72,3 +72,6 @@ CCTV-14少儿,http://223.167.75.36:10030/gaoma/cctv14.m3u8
 CCTV1-15音乐,http://223.167.75.36:10030/gaoma/cctv15.m3u8 
 CCTV-16奥林匹克,http://223.167.75.36:10030/gaoma/cctv16.m3u8 
 CCTV-17农业农村,http://223.167.75.36:10030/gaoma/cctv17.m3u8 
+央视源,#genre#
+CCTV-2财经,https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?wsSecret=ec092a52c9aad9a13ab467c16759f07f&wsTime=1737988397
+CCTV-2财经,https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
