@@ -156,3 +156,5 @@ CCTV-17农业农村,https://tvpull.careryun.com/tv/cctv17.m3u8
 海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
 西藏卫视,http://tvpull.careryun.com/tv/xzws.m3u8
 辽宁卫视,http://101.204.99.111:9999/itv/5000000004000011671.m3u8?cdn=bestzb 
+测试源,#genre#
+卫视,http://mgsp-tx2.live.miguvideo.com:8088/wd_r2/ocn/youxifengyunhd/3000/index.m3u8?msisdn=2ce06e64df5e6ee50f0affa6e5e63aef&mdspid=&spid=600633&netType=4&sid=5910021587&pid=2028597139&timestamp=20250128134403&Channel_ID=0116_2505090870-99000-200300020100001&ProgramID=790188417&ParentNodeID=-99&assertID=5910021587&client_ip=36.134.147.104&SecurityKey=20250128134403&promotionId=&mvid=5900005710&mcid=500020&playurlVersion=ZQ-A1-8.1.2-RELEASE&userid=1460254850&jmhm=2ce06e64df5e6ee50f0affa6e5e63aef&videocodec=h264&mgdbId=&tid=ipad&conFee=0&encrypt=87b5c274e8e8b02ff9571c41235d5c21
