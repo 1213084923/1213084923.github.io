@@ -1,3 +1,8 @@
+一梦影视,#genre#
+更新时间2025.1.28,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
+一梦影视,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
+免费更新,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
+微信：yimeng982,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 咪咕央视源,#genre#
 CCTV1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 CCTV2财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
@@ -20,8 +25,6 @@ CCTV17农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55f
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-,
-,
 CCTV4欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
 CCTV4美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=85c9fb128ac91587cf67086436bd4af8631774375811d0d14ba7158ffb2f56b528e7e92a2da4c2f8bd757394265b58efcbccdce316306a1dae700620a73e52c2ab049d8bd223c049567a8c10bf
 CCTV9Documentary,https://www.freetv.top/migu/609006487.m3u8?migutoken=aa6b7733654f88e6bc50f2966887b2eb428623c5d6d66fe9d0fc7de43f9aa6a724f12ec1f0d65aae1c1decba5cd1444cbdea8c24adbc56c5a79a1dbd2828e6deb293dace8a518080d5d1f0cb2b
@@ -179,14 +182,6 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=54ca77a9f743c7c47ca79
 北京新闻,http://dsk.cc/bjtv/btime.php?id=bjxw
 北京生活,http://dsk.cc/bjtv/btime.php?id=bjsh
 北京财经,http://dsk.cc/bjtv/btime.php?id=bjcj
-☘️四川频道,#genre#
-四川新闻,http://wouu.net:9977/udp/239.93.0.47:5140
-四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
-四川经济,http://wouu.net:9977/udp/239.93.1.101:5140
-四川文化旅游,http://wouu.net:9977/udp/239.93.1.102:5140
-四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
-四川乡村,http://wouu.net:9977/udp/239.93.0.52:5140
-四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
 ☘️浙江频道,#genre#
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
