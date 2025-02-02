@@ -1,7 +1,9 @@
 一梦备用直播源,#genre#
+一梦备用源,http://8.146.211.219:2001/live_tv?pid=600001859
+央视卫视,#genre#
 CCTV-1,http://8.146.211.219:2001/live_tv?pid=600001859
 CCTV-2,http://8.146.211.219:2001/live_tv?pid=600001800
-CCTV-3（无）,http://8.146.211.219:2001/live_tv?pid=600001801
+CCTV-3,http://8.146.211.219:2001/live_tv?pid=600001801
 CCTV-4,http://8.146.211.219:2001/live_tv?pid=600001814
 CCTV-5,http://8.146.211.219:2001/live_tv?pid=600001818
 CCTV-5+,http://8.146.211.219:2001/live_tv?pid=600001817
@@ -16,11 +18,31 @@ CCTV-13,http://8.146.211.219:2001/live_tv?pid=600001811
 CCTV-14,http://8.146.211.219:2001/live_tv?pid=600001809
 CCTV-15,http://8.146.211.219:2001/live_tv?pid=600001815
 CCTV-16-HD,http://8.146.211.219:2001/live_tv?pid=600098637
+CCTV-16(4K）,http://8.146.211.219:2001/live_tv?pid=600099502
 CCTV-17,http://8.146.211.219:2001/live_tv?pid=600001810
 CCTV-4K,http://8.146.211.219:2001/live_tv?pid=600002264
 CCTV-8K,http://8.146.211.219:2001/live_tv?pid=600156816
+CGTN,http://8.146.211.219:2001/live_tv?pid=600014550
+CGTN-法语频道,http://8.146.211.219:2001/live_tv?pid=600084704
+CGTN-俄语频道,http://8.146.211.219:2001/live_tv?pid=600084758
+CGTN-阿拉伯语频道,http://8.146.211.219:2001/live_tv?pid=600084782
+CGTN-西班牙语频道,http://8.146.211.219:2001/live_tv?pid=600084744
+CGTN-外语纪录频道,http://8.146.211.219:2001/live_tv?pid=600084781
+CCTV-第一剧场频道,http://8.146.211.219:2001/live_tv?pid=600099655
+CCTV-风云剧场频道,http://8.146.211.219:2001/live_tv?pid=600099658
+CCTV-怀旧剧场频道,http://8.146.211.219:2001/live_tv?pid=600099620
+CCTV-世界地理频道,http://8.146.211.219:2001/live_tv?pid=600099637
+CCTV-风云音乐频道,http://8.146.211.219:2001/live_tv?pid=600099660
+CCTV-兵器科技频道,http://8.146.211.219:2001/live_tv?pid=600099649
+CCTV-风云足球频道,http://8.146.211.219:2001/live_tv?pid=600099636
+CCTV-高尔夫·网球频道,http://8.146.211.219:2001/live_tv?pid=600099659
+CCTV-女性时尚频道,http://8.146.211.219:2001/live_tv?pid=600099650
+CCTV-央视文化精品频道,http://8.146.211.219:2001/live_tv?pid=600099653
+CCTV-央视台球频道,http://8.146.211.219:2001/live_tv?pid=600099652
+CCTV-电视指南频道,http://8.146.211.219:2001/live_tv?pid=600099656
+CCTV-卫生健康频道,http://8.146.211.219:2001/live_tv?pid=600099651
 北京卫视,http://8.146.211.219:2001/live_tv?pid=600002309
-东方卫视,http://8.146.211.219:2001/live_tv?pid=600002483
+上海东方卫视,http://8.146.211.219:2001/live_tv?pid=600002483
 江苏卫视,http://8.146.211.219:2001/live_tv?pid=600002521
 浙江卫视,http://8.146.211.219:2001/live_tv?pid=600002520
 湖南卫视,http://8.146.211.219:2001/live_tv?pid=600002475
@@ -34,10 +56,14 @@ CCTV-8K,http://8.146.211.219:2001/live_tv?pid=600156816
 四川卫视,http://8.146.211.219:2001/live_tv?pid=600002516
 河南卫视,http://8.146.211.219:2001/live_tv?pid=600002525
 福建东南卫视,http://8.146.211.219:2001/live_tv?pid=600002484
+贵州卫视,http://8.146.211.219:2001/live_tv?pid=600002490
 江西卫视,http://8.146.211.219:2001/live_tv?pid=600002503
 辽宁卫视,http://8.146.211.219:2001/live_tv?pid=600002505
 安徽卫视,http://8.146.211.219:2001/live_tv?pid=600002532
 河北卫视,http://8.146.211.219:2001/live_tv?pid=600002493
+山东卫视,http://8.146.211.219:2001/live_tv?pid=600002513
+天津卫视,http://8.146.211.219:2001/live_tv?pid=600152137
+吉林卫视,http://8.146.211.219:2001/live_tv?pid=600190405
 陕西卫视,http://8.146.211.219:2001/live_tv?pid=600190400
 甘肃卫视,http://8.146.211.219:2001/live_tv?pid=600190408
 宁夏卫视,http://8.146.211.219:2001/live_tv?pid=600190737
@@ -46,85 +72,50 @@ CCTV-8K,http://8.146.211.219:2001/live_tv?pid=600156816
 山西卫视,http://8.146.211.219:2001/live_tv?pid=600190407
 青海卫视,http://8.146.211.219:2001/live_tv?pid=600190406
 西藏卫视,http://8.146.211.219:2001/live_tv?pid=600190403
-山东卫视,http://8.146.211.219:2001/live_tv?pid=600002513
-天津卫视,http://8.146.211.219:2001/live_tv?pid=600152137
-贵州卫视,http://8.146.211.219:2001/live_tv?pid=600002490
-吉林卫视,http://8.146.211.219:2001/live_tv?pid=600190405
 CETV-1,http://8.146.211.219:2001/live_tv?pid=600171827
 新疆卫视,http://8.146.211.219:2001/live_tv?pid=600152138
 兵团卫视,http://8.146.211.219:2001/live_tv?pid=600193252
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-CGTN,http://8.146.211.219:2001/live_tv?pid=600014550
-CGTN-法语频道,http://8.146.211.219:2001/live_tv?pid=600084704
-CGTN-俄语频道,http://8.146.211.219:2001/live_tv?pid=600084758
-CGTN-阿拉伯语频道,http://8.146.211.219:2001/live_tv?pid=600084782
-CGTN-西班牙语频道,http://8.146.211.219:2001/live_tv?pid=600084744
-CGTN-外语纪录频道,http://8.146.211.219:2001/live_tv?pid=600084781
-CCTV-第一剧场频道,http://8.146.211.219:2001/live_tv?pid=600099655
-CCTV-风云剧场频道,http://8.146.211.219:2001/live_tv?pid=600099658
-CCTV-怀旧剧场频道,http://8.146.211.219:2001/live_tv?pid=600099620
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+江苏非诚勿扰,http://8.146.211.219:2001/live_tv?pid=jsfcwr
 
+卫视频道,#genre#
+浙江卫视,http://8.146.211.219:2011/live_tv?pid=ZJTV
+湖南卫视,http://8.146.211.219:2011/live_tv?pid=HNTV
+江苏卫视,http://8.146.211.219:2011/live_tv?pid=JSTV
+上海东方卫视,http://8.146.211.219:2011/live_tv?pid=SHDFTV
+北京卫视,http://8.146.211.219:2011/live_tv?pid=BJTV
+河北卫视,http://8.146.211.219:2011/live_tv?pid=HEBTV
+辽宁卫视,http://8.146.211.219:2011/live_tv?pid=LNTV
+安徽卫视,http://8.146.211.219:2011/live_tv?pid=AHTV
+山西卫视,http://8.146.211.219:2011/live_tv?pid=SXTV
+黑龙江卫视,http://8.146.211.219:2011/live_tv?pid=HLJTV
+新疆卫视,http://8.146.211.219:2011/live_tv?pid=XJTV
+海南卫视,http://8.146.211.219:2011/live_tv?pid=LYTV
+广东卫视,http://8.146.211.219:2011/live_tv?pid=GDTV
+吉林卫视,http://8.146.211.219:2011/live_tv?pid=JLTV
+四川卫视,http://8.146.211.219:2011/live_tv?pid=SCTV
+深圳卫视,http://8.146.211.219:2011/live_tv?pid=SZTV
+江西卫视,http://8.146.211.219:2011/live_tv?pid=JXTV
+陕西卫视,http://8.146.211.219:2011/live_tv?pid=SXTVS
+湖北卫视,http://8.146.211.219:2011/live_tv?pid=HBTV
+河南卫视,http://8.146.211.219:2011/live_tv?pid=HENTV
+青海卫视,http://8.146.211.219:2011/live_tv?pid=QHTV
+云南卫视,http://8.146.211.219:2011/live_tv?pid=YNTV
+贵州卫视,http://8.146.211.219:2011/live_tv?pid=GZTV
+广西卫视,http://8.146.211.219:2011/live_tv?pid=GXTV
+KAKU少儿,http://8.146.211.219:2011/live_tv?pid=KKKT
+哈哈炫动,http://8.146.211.219:2011/live_tv?pid=XDKT
+重庆卫视,http://8.146.211.219:2011/live_tv?pid=CQTV
+内蒙古卫视,http://8.146.211.219:2011/live_tv?pid=NMGTV
+甘肃卫视,http://8.146.211.219:2011/live_tv?pid=GSTV
+宁夏卫视,http://8.146.211.219:2011/live_tv?pid=NXTV
+西藏卫视,http://8.146.211.219:2011/live_tv?pid=XZTV
+兵团卫视,http://8.146.211.219:2011/live_tv?pid=BTTV
+天津新闻,http://8.146.211.219:2011/live_tv?pid=TJXW
+天津影视,http://8.146.211.219:2011/live_tv?pid=TJYS
+天津体育,http://8.146.211.219:2011/live_tv?pid=TJTY
+天津教育,http://8.146.211.219:2011/live_tv?pid=TJKJ
+
+网络频道,#genre#
 快乐垂钓_j,http://tvbox6.icu/tv/mgtv.php?id=218
 快乐购_p,http://tvbox6.icu/tv/mgtv.php?id=267
 快意江湖：金庸的武侠世界_g,http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
@@ -133,7 +124,6 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 怀柔电视_k,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 怒江新闻_y,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 怒江新闻综合_x,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-恋物720_g,http://cdn.adultiptv.net/fetish.m3u8
 情满四合院_m,http://jiaojirentv.top/2020/yy.php?id=1382735541
 意大利umbriatv_d,https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
 成龙_a,http://zzy789.xyz/douyu1.php?id=3379942
