@@ -1,60 +1,19 @@
 {
-  "urls": [
-       {
-           "url": "https://1213084923.github.io/yimeng983.json",
-           "name": "一梦影视"
-        },
-        {
-            "url": "https://jihulab.com/ss3234741/sj/-/raw/main/cx.json",
-            "name": "📦天招线路"
-        },	
-        {
-            "url": "https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/CF_V5.json",
-            "name": "❄️江雪线路"
-        },    
-        {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-            "name": "王小二线路"
-        },       
-        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "多多猫盒线路"
-        },    
-        {
-            "url": "http://肥猫.com",
-            "name": "肥猫线路"
-        },  
-        {
-            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
-            "name": "🌒月光宝盒线路"
-        }, 	
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "饭太硬线路"
-        },  	
-        {
-            "url": "https://www.cwss.xyz/刺猬线路禁止贩卖",
-            "name": "🦔刺猬线路"
-        },                    
-        {
-            "url": "https://gitee.com/lukei7/k18/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-            "name": "📦自建线路"
-        },	
-        {
-            "url": "http://tv.nxog.top/m",
-            "name": "🎤欧歌主线路"
-        }, 	
-        {
-            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json",
-            "name": "❦缝纫机线路"
-        },			
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "💦巧技线路"
-        },				   		      			
-        {
-            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "业余线路"
-        }
-  ]
-}
+  urls: [
+    { name: "🧑‍🎤欧歌", url: "http://bobohome.ignorelist.com:20247/🧑‍🎤欧歌/" },
+    { name: "作者：🍚饭太硬", url: "http://bobohome.ignorelist.com:20247/🍚饭太硬/" },
+    { name: "作者：👺王小二线路", url: "http://tvbox.xn--4kq62z5rby2qupq9ub.top" },
+    { name: "作者：🥬菜妮丝线路", url: "https://tv.xn--yhqu5zs87a.top" },
+    { name: "作者：‍🔧巧技线路失效", url: "http://cdn.qiaoji8.com/tvbox.json" },
+    { name: "作者：📺天招线路", url: "https://jihulab.com/ss3234741/sj/-/raw/main/cx.json" },
+    { name: "作者：东曦视界线路", url: "https://box.iqinu.com/" },
+    { name: "作者：魔法线路", url: "https://7952.kstore.space/JAR/zs.txt" },
+    { name: "作者：😋TH线路", url: "http://ztha.top/TVBox/thdjk.json" },
+    { name: "作者：👺王小二备用", url: "https://9280.kstore.vip/wex.json" },
+    { name: "作者：🍚饭太硬备用", url: "https://tv.nxog.top/apib.php?id=1" },
+    { name: "线路失效反馈一梦删除", url: "https://1213084923.github.io/yimeng983.json" },
+    { name: "一梦微信：yimeng982", url: "https://1213084923.github.io/yimeng983.json" },
+    { name: "持续更新中...", url: "https://1213084923.github.io/yimeng983.json" },
+    { name: "2026.3.20最新版", url: "https://1213084923.github.io/yimeng983.json" },
+  ],
+};
